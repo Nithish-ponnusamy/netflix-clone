@@ -1,6 +1,6 @@
-# Netflix Clone with Full DevSecOps Implementation
+# Netflix Clone with Full DevOps Implementation
 
-This project demonstrates a **Netflix clone** deployed with a **full DevSecOps pipeline**, including code quality checks, security scanning, containerization, CI/CD automation, monitoring, and deployment to **EKS** with **ArgoCD**.
+This project demonstrates a **Netflix clone** deployed with a **full DevOps pipeline**, including code quality checks, security scanning, containerization, CI/CD automation, monitoring, and deployment to **EKS** with **ArgoCD**.
 
 ![Netflix Clone Architecture](./architecture.png)
 
